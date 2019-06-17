@@ -1,7 +1,7 @@
 """
 Python script to send birthday wishes to your friends.
 If you want to send birthday wishes at 12:00 am automated just add this script in cron job in linux system.
-To storing birthday, names, email-id hard-coded values is used next time I will fetch all the things from api.
+To storing birthday, names, email-id hard-coded values is used next script I will fetch all the things from api.
 """
 
 from datetime import date
